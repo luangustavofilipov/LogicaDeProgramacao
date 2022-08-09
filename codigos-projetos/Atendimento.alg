@@ -1,4 +1,6 @@
 algoritmo "Cadastro"
+//  
+//  
 var
   nomecomp, nome, resposta, avaliacao, email: caractere
   opcao,celular, CPF, ano :inteiro
